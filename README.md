@@ -6,9 +6,9 @@
 **Обучение модели:** Ultralytics YOLOv8
 
 ### Результаты
-![PR curve](images/BoxPR_curve.png)
+![PR curve](images/BoxPR_curve.jpg)
 
-![Learning curve](images/results.png)
+![Learning curve](images/yolov8s_img1024/results.jpg)
 ### Запуск проекта
 1. Клонирование репозитория
 	```bash 
@@ -38,6 +38,9 @@
 4. Установка зависимостей
     ```bash 
     pip install -r requirements.txt
+    ```
+    ```
+    pip install torch --index-url https://download.pytorch.org/whl/cu118
     ```
 5. Запуск Jupyter Notebook
     ```bash 
