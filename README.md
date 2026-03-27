@@ -8,7 +8,7 @@
 ### Результаты
 ![PR curve](images/BoxPR_curve.png)
 
-![Learning curve](images/yolov8s_img1024/results.png)
+![Learning curve](images/results.png)
 ### Запуск проекта
 1. Клонирование репозитория
 	```bash 
