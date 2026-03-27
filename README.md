@@ -15,7 +15,7 @@
 	git clone https://github.com/sofiachuleva/VisDrone-detection.git
  	```
  	```bash
-    cd house-prices
+    cd VisDrone-detection
 	```
 2. Создание виртуального окружения
     ```bash 
