@@ -36,13 +36,13 @@
  	source venv/Scripts/activate
  	```
 4. Установка зависимостей
-    ```bash 
-    pip install -r requirements.txt
-    ```
     ```
     pip install torch --index-url https://download.pytorch.org/whl/cu118
     ```
-5. Запуск Jupyter Notebook
+    ```bash 
+    pip install -r requirements.txt
+    ```
+6. Запуск Jupyter Notebook
     ```bash 
     jupyter notebook
     ```
